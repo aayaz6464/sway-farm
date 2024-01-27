@@ -1,0 +1,2 @@
+const myWallet = new WalletLocked("fuel1xzhks70lcjmn4cle8zqn5dmnj4v8pxjjex3wap5d4hx4s0smu0qq48fzj9");
+console.log("WALLET:", myWallet.address.toB256());
